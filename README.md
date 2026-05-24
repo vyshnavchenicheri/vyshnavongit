@@ -63,7 +63,7 @@ I prefer learning from first principles and building practical skills instead of
 
 # 🌐 Connect With Me
 
-* Email : vyshnavchenicheri@gmail.com
-* LinkedIn: https://www.linkedin.com/in/vyshnavchenicheri/
+* Email :vyshnavchenicheri@gmail.com
+* LinkedIn :https://www.linkedin.com/in/vyshnavchenicheri/
 
 ---
