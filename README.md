@@ -13,15 +13,6 @@ I prefer learning from first principles and building practical skills instead of
 
 ---
 
-# 🧠 Current Focus
-
-* Becoming strong in frontend + UI/UX
-* Building creative technical projects
-* Improving design thinking
-* Learning modern development workflows
-
----
-
 # 💻 Tech Stack
 
 ## Languages
@@ -51,8 +42,6 @@ I prefer learning from first principles and building practical skills instead of
 * Become industry ready before graduation
 
 ---
-
-
 
 # 🛠 Featured Projects
 
