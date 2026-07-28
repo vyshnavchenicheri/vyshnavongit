@@ -1,6 +1,6 @@
 # Hi, I'm Vyshnav 👋
 
-## 🚀 About Me
+##  About Me
 
 B.Tech CSE student focused on building skills across technology, design, creativity, and problem solving.
 
